@@ -6,4 +6,4 @@ gem 'cocoapods-keys'
 
 gem 'sbconstants'
 gem 'second_curtain'
-gem 'fastlane'
+gem 'fastlane', '>= 1.108.0'
